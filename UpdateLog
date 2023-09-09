@@ -1,3 +1,35 @@
+UPDATE V1.11
+(French)
+Maintenant sauvegarde les tokens pour la prochaine connection
+(English)
+Now save tokens for next login
+(Deutsche)
+Speichern Sie jetzt Token für die nächste Anmeldung
+
+
+UPDATE V1.10
+(French)
+Correction De deux tokens qui était afficher a double
+(English)
+Correction of two tokens which was displayed as double
+(Deutsche)
+Korrektur von zwei Token, die doppelt angezeigt wurden
+
+UPDATE V1.08
+(French)
+Correction d'erreur d'affichage de l'icon lors de l'appui sur F12
+(English)
+Fixed icon display error when pressing F12
+(Deutsche)
+Fehler bei der Symbolanzeige beim Drücken von F12 behoben
+
+UPDATE V1.07
+(French)
+Correction d'erreur d'affichage de texte dans la langue française
+(English)
+Fixed text display error in French language
+(Deutsche)
+Textanzeigefehler in französischer Sprache behoben
 
 UPDATE V1.06
 (French)
