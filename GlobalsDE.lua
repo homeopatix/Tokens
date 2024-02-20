@@ -10,58 +10,58 @@ _G.T = {};
 	T[ "PluginName" ] = "Tokens";
 	T[ "PluginText" ] = "Von Homeopatix";
 	T[ "Loaded" ] = "Geladen";
-	T[ "Unactivated" ] = "Deaktiviert";
+	T[ "Unactivated" ] = "Beendet";
 	T[ "PluginEscEnable" ] = "Escape-Taste aktiviert";
 	T[ "PluginEscDesable" ] = "Escape-Taste deaktiviert";
 	T[ "PluginAltEnable" ] = "Alt-Taste aktiviert";
 	T[ "PluginAltDesable" ] = "Alt-Taste deaktiviert";
-	T[ "PluginToggleOn" ] = "Fenster aktivieren";
-	T[ "PluginToggleOff" ] = "Fenster deaktivieren";
-	T[ "PluginEscIconOn" ] = "Zeige das Symbol an";
-	T[ "PluginEscIconOff" ] = "Verstecke das Symbol";
-	T[ "PluginWindowShow" ] = "Schaufenster";
-	T[ "PluginWindowHide" ] = "Verstecke das Fenster";
+	T[ "PluginToggleOn" ] = "Fenster wird angezeigt";
+	T[ "PluginToggleOff" ] = "Fenster wird ausgeblendet";
+	T[ "PluginEscIconOn" ] = "Symbol wird angezeigt";
+	T[ "PluginEscIconOff" ] = "Symbol wird ausgeblendet";
+	T[ "PluginWindowShow" ] = "Fenster wird angezeigt";
+	T[ "PluginWindowHide" ] = "Fenster wird ausgeblendet";
 	T[ "ComptePartage" ] = "Gemeinsames Konto";
-	T[ "PluginClear" ] = "Fenster neu initialisieren";
-	T[ "PluginOptionsWindowShow" ] = "Optionsfenster anzeigen";
+	T[ "PluginClear" ] = "Tokens werden neu initialisiert";
+	T[ "PluginOptionsWindowShow" ] = "Optionen werden angezeigt";
 	------------------------------------------------------------------------------------------
 	-- debug --
 	------------------------------------------------------------------------------------------
-	T[ "PluginDebugOff" ] = "Modus Debug aus";
-	T[ "PluginDebugOn" ] = "Modus-Debugging an";
-	T[ "PluginDebugTexte1" ] = "Wenn der Debug-Modus aktiviert ist; speichern die Plugins die Namen aller Ihrer Token in einer Datei\n";
-	T[ "PluginDebugTexte2" ] = "das befindet sich in : \n";
+	T[ "PluginDebugOff" ] = "Debug-Modus aus";
+	T[ "PluginDebugOn" ] = "Debug-Modus an";
+	T[ "PluginDebugTexte1" ] = "Wenn der Debug-Modus aktiviert ist, speichert das Plugin alle Namen deiner Tokens in einer Datei.\n";
+	T[ "PluginDebugTexte2" ] = "Das befindet sich in : \n";
 	T[ "PluginDebugTexte3" ] = "C:\Users\<DeinBenutzername>\Documents\The Lord of the Rings Online\PluginData\<IhrKonto>\<ServerName>\<CharacterName>\n";
 	T[ "PluginDebugTexte4" ] = "Die Datei hei\195\159t ";
 	T[ "PluginDebugTexte5" ] = "TokensNamesDE.plugindata";
-	T[ "PluginDebugTexte6" ] = "Wenn Sie die Sprache \195\164ndern; wird die Datei in der Sprache gespeichert; in der Sie eine Verbindung herstellen\n";
-	T[ "PluginDebugTexte7" ] = "Sie k\195\180nnen es mir senden; damit ich die fehlenden Token hinzuf\195\188gen kann...\n";
+	T[ "PluginDebugTexte6" ] = "Wenn du die Sprache \195\164nderst, wird die Datei in der Sprache gespeichert, in der du dich einloggst.\n";
+	T[ "PluginDebugTexte7" ] = "Du kannst mir die Datei schicken, damit ich die fehlenden Tokens hinzuf\195\188gen kann.\n";
 	T[ "PluginSave" ] = "Debug-Datei gespeichert";
 	------------------------------------------------------------------------------------------
 	-- help --
 	------------------------------------------------------------------------------------------
 	T[ "PluginHelp1" ] = "\n\nListe der Befehle:\n";
-	T[ "PluginHelp2" ] = "/Tok help - Hilfefenster anzeigen.\n";
-	T[ "PluginHelp3" ] = "/Tok show - Fenster anzeigen.\n";
-	T[ "PluginHelp4" ] = "/Tok hide - Fenster verbergen.\n";
-	T[ "PluginHelp5" ] = "/Tok esc - Escape-Taste aktivieren oder deaktivieren.\n";
-	T[ "PluginHelp6" ] = "/Tok alt - Alt-Taste aktivieren oder deaktivieren; um das Symbol zu verschieben.\n";
-	T[ "PluginHelp7" ] = "/Tok toggle - Fenster aktivieren- und deaktivieren.\n";
-	T[ "PluginHelp8" ] = "/Tok options - Optionsfenster anzeigen.\n";
-	T[ "PluginHelp9" ] = "/Tok clear - Fenster neu initialisieren.\n\n";
+	T[ "PluginHelp2" ] = "/tok help - Zeigt das Hilfefenster an.\n";
+	T[ "PluginHelp3" ] = "/tok show - Zeigt das Fenster an.\n";
+	T[ "PluginHelp4" ] = "/tok hide - Blendet das Fenster aus.\n";
+	T[ "PluginHelp5" ] = "/tok esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.\n";
+	T[ "PluginHelp6" ] = "/tok alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+	T[ "PluginHelp7" ] = "/tok toggle - Fenster anzeigen/ausblenden.\n";
+	T[ "PluginHelp8" ] = "/tok options - Zeigt die Optionen an.\n";
+	T[ "PluginHelp9" ] = "/tok clear - Tokens neu initialisieren.\n\n";
 	T[ "PluginCloseButton" ] = "Fenster schlie\195\159en";
 	------------------------------------------------------------------------------------------
 	-- options window --
 	------------------------------------------------------------------------------------------
-	T[ "PluginOptionsText" ] = "Optionsfenster";
-	T[ "PluginOptionTokens1" ] = "Token zum Anzeigen";
-	T[ "PluginOptionTokens0" ] = "W\195\164hlen Sie aus, welche Token angezeigt werden sollen";
-	T[ "PluginOptionValidate" ] = "\195\132nderungen validieren";
-	T[ "PluginOptionDelete" ] = "Fenster neu initialisieren";
+	T[ "PluginOptionsText" ] = "Tokens Optionen";
+	T[ "PluginOptionTokens1" ] = "Tokens zum Anzeigen";
+	T[ "PluginOptionTokens0" ] = "W\195\164hle aus, welche Tokens angezeigt werden sollen";
+	T[ "PluginOptionValidate" ] = "Speichern";
+	T[ "PluginOptionDelete" ] = "Tokens neu initialisieren";
 	------------------------------------------------------------------------------------------
 	-- Wallet Currency Controls --
 	------------------------------------------------------------------------------------------
-	T[ "TokenContent1" ] = "Pi\195\168ce";
+	T[ "TokenContent1" ] = "M\195\188nzen";
 	T[ "TokenContent2" ] = "Paysage";
 	T[ "TokenContent3" ] = "Festival et Evenements";
 	T[ "TokenContent4" ] = "Progression d'objet";
@@ -69,7 +69,7 @@ _G.T = {};
 	T[ "TokenContent6" ] = "Artisanats";
 	T[ "TokenContent7" ] = "Taxidermiste";
 	T[ "TokenContent8" ] = "Instances et Escarmouches";
-	T[ "TokenContent9" ] = "Monnaie";
+	T[ "TokenContent9" ] = "W\195\164hrung";
 	------------------------------------------------------------------------------------------
 	-- Piece -- 1
 	------------------------------------------------------------------------------------------
@@ -234,6 +234,6 @@ _G.T = {};
 	------------------------------------------------------------------------------------------
 	-- Monnaie -- 3
 	------------------------------------------------------------------------------------------
-	T[ "TokenMonnaie1" ] = "Asche der Verzauberung";
-	T[ "TokenMonnaie2" ] = "Aschepartikel der Verzauberung";
+	T[ "TokenMonnaie1" ] = "Staub der Verzauberung";
+	T[ "TokenMonnaie2" ] = "Funken der Verzauberung";
 	T[ "TokenMonnaie3" ] = "Prachtst\195\188ck des Glanzes";
