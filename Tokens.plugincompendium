@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1163</Id>
+  <Name>Tokens</Name>
+  <Version>1.18</Version>
+  <Author>Homeopatix</Author>
+ <Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tokens est un petit plugin pour afficher vos differents jetons
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tokens is a small plugin to display your different tokens
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tokens ist ein kleines Plugin zum Anzeigen Ihrer verschiedenen Token
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+(French)
+/Tokens help - Affiche l'aide
+(English)
+/Tokens help - Show the help
+(Deutsche)
+/Tokens help - Hilfefenster anzeigen
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1163</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1163</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\Tokens.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>

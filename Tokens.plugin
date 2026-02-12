@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Tokens</Name>
+		<Author>Homeopatix</Author>
+		<Version>1.18</Version>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tokens est un petit plugin pour afficher vos differents jetons
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tokens is a small plugin to display your different tokens
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tokens ist ein kleines Plugin zum Anzeigen Ihrer verschiedenen Token
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+(French)
+/Tokens help - Affiche l'aide
+(English)
+/Tokens help - Show the help
+(Deutsche)
+/Tokens help - Hilfefenster anzeigen
+		</Description>
+<Image>Homeopatix/Tokens/Resources/pluginmanager_icon.tga</Image>
+	</Information>
+	<Package>Homeopatix.Tokens.Main</Package>
+<Configuration Apartment="Tokens" />
+</Plugin>
