@@ -35,34 +35,25 @@ monnaies spéciales du jeu**.
   `/Tok icon`      Affiche ou masque l'icône
   `/Tok alt`       Active ou désactive la touche ALT pour déplacer l'icône
 
-------------------------------------------------------------------------
-
 ## 🎹 Raccourcis
 
-  Action               Touche
-  -------------------- ----------------------------
-  Déplacer l'icône     `ALT` (si activé)
+  Action               Touche\
+  -------------------- ----------------------------\
+  Déplacer l'icône     `ALT` (si activé)\
   Ouvrir les options   `SHIFT + clic sur l’icône`
 
 ------------------------------------------------------------------------
 
 # 🧩 Installation
 
-1.  Télécharger le ZIP depuis LOTROInterface\
-    https://www.lotrointerface.com/downloads/info1163-Tokens.html
+1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
 2.  Extraire le dossier.
 3.  Copier le dossier `Tokens` dans :
 
-```{=html}
-<!-- -->
-```
     Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
-
-```{=html}
-<!-- -->
-```
+    
     /plugins load Tokens
 
 ------------------------------------------------------------------------
@@ -84,6 +75,29 @@ Les fichiers sont enregistrés dans :
 -   Type : Plugin LOTRO
 -   Stockage : Données locales (PluginData)
 -   Compatibilité : Toutes versions LOTRO récentes
+
+------------------------------------------------------------------------
+
+# ❗ Requirements / Besoins / Bedürfnisse
+
+## 🇫🇷 !!! Besoins !!!
+
+Vous devez avoir installé le package **Turbine**.\
+Vous pouvez le télécharger à cette adresse : **[ICI](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
+
+## 🇬🇧 !!! Needs !!!
+
+You need to have the **Turbine package** installed.\
+You can download it at this address: **[HERE](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
+
+## 🇩🇪 !!! Bedürfnisse !!!
+
+Sie müssen das **Turbine-Paket** installiert haben.\
+Sie können es unter dieser Adresse herunterladen: **[HIER](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
