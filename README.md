@@ -1,7 +1,6 @@
-
-
-
 <img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/680e585d-25eb-45bc-843b-07a2d2b810e4" />
+
+
 # 🪙 Tokens -- LOTRO Plugin
 
 ![Lua](https://img.shields.io/badge/Lua-Plugin-blue)
