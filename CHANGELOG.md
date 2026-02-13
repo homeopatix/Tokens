@@ -8,17 +8,6 @@
 
 ### 🇫🇷 Français
 - Mise à jour de la version Allemande, merci à Farothhen pour son travail
-
-### 🇬🇧 English
-- Update of the German version, thanks to Farothhen for his work
-
-### 🇩🇪 Deutsch
-- Aktualisierung der deutschen Version, Dank an Farothhen für seine Arbeit
-
-## V1.17
-
-### 🇫🇷 Français
-- Mise à jour de la version Allemande, merci à Farothhen pour son travail
 ### 🇬🇧 English
 - Update of the German version, thanks to Farothhen for his work
 ### 🇩🇪 Deutsch
